@@ -1,2 +1,2 @@
 wsl --install --distribution kali-linux --web-download
-wsl --set-default archlinux
+wsl --set-default kali-linux
